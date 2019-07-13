@@ -1,0 +1,11 @@
+{
+  "Logging": {
+    "IncludeScopes": true,
+    "LogLevel": {
+      "Default": "Information",
+      "CheckLinksConsole.LinkChecker": "Trace"
+    },
+    "PathFormat": "logs/checklinks-{Date}.json",
+    "Json": true
+  }
+}
