@@ -1,4 +1,8 @@
 checklinksconsole/bin/*
 checklinksconsole/obj/*
+checklinksconsole/.vs/*
+checklinksconsole/.vscode/*
 checklinkstests/bin/*
 checklinkstests/obj/*
+checklinkstests/.vs/*
+checklinkstests/.vscode/*
